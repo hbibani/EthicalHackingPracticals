@@ -1,0 +1,2 @@
+
+Cookie: security=low; PHPSESSID=3fd8622cc0552e225bffb09eccd65a13
